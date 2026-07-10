@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/TheFeatherOS/.github/main/images/feather-banner.png)
+![banner](https://raw.githubusercontent.com/TheFeatherOS/.github/refs/heads/main/images/banner-feather.png)
 
 **FeatherOS** is a custom ROM based on AOSP, designed to deliver a clean, lightweight, and simple Android experience with just the right amount of useful features.
 
