@@ -29,4 +29,6 @@ Join us on the journey of building a clean and simple Android experience.
 -
 
 - [GenesisOS](https://github.com/GenesisOS)
+- Sheelq - Designer
+
 Thanks to the whole custom ROM community.
