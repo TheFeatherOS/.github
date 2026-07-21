@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/TheFeatherOS/.github/refs/heads/main/images/banner-feather.png)
 
-**FeatherOS** is a custom ROM based on AOSP, designed to deliver a clean, lightweight, and simple Android experience with just the right amount of useful features.
+**FeatherOS** is a custom ROM based on LineageOS, designed to deliver a simple Android experience with just the right amount of useful features. (I hope...)
 
 <!--
 - [*Join Our Telegram Community!*](https://t.me/FeatherOSChat)
@@ -28,7 +28,8 @@ Join us on the journey of building a clean and simple Android experience.
 **Credits**
 -
 
+- [LineageOS](https://github.com/LineageOS)
 - [GenesisOS](https://github.com/GenesisOS)
-- Sheelq - Designer
+- [Project CiRCLE](https://github.com/ProjectCiRCLE-ROM)
 
 Thanks to the whole custom ROM community.
